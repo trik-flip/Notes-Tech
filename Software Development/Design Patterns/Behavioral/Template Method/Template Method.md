@@ -1,0 +1,2 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Design Patterns](<../../Design Patterns.md>) > [Behavioral](../Behavioral.md) > [Template Method](<Template Method.md>)
+

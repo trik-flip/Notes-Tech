@@ -1,0 +1,18 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Refactoring](../../Refactoring.md) > [Refactoring Techniques](<../Refactoring Techniques.md>) > [Organizing Data](<Organizing Data.md>)
+
+- [Change Value to Reference](<Change Value to Reference/Change Value to Reference.md>)
+- [Change Reference to Value](<Change Reference to Value/Change Reference to Value.md>)
+- [Duplicate Observed Data](<Duplicate Observed Data/Duplicate Observed Data.md>)
+- [Self Encapsulate Field](<Self Encapsulate Field/Self Encapsulate Field.md>)
+- [Replace Date Value with Object](<Replace Date Value with Object/Replace Date Value with Object.md>)
+- [Replace Array with Object](<Replace Array with Object/Replace Array with Object.md>)
+- [Change Unidirectional Association to Bidirectional](<Change Unidirectional Association to Bidirectional/Change Unidirectional Association to Bidirectional.md>)
+- [Change Bidirectional Association to Unidirectional](<Change Bidirectional Association to Unidirectional/Change Bidirectional Association to Unidirectional.md>)
+- [Encapsulate Field](<Encapsulate Field/Encapsulate Field.md>)
+- [Encapsulate Collection](<Encapsulate Collection/Encapsulate Collection.md>)
+- [Replace Magic Number with Symbolic Constant](<Replace Magic Number with Symbolic Constant/Replace Magic Number with Symbolic Constant.md>)
+- [Replace Type Code with Class](<Replace Type Code with Class/Replace Type Code with Class.md>)
+- [Replace Type Code with Subclasses](<Replace Type Code with Subclasses/Replace Type Code with Subclasses.md>)
+- [Replace Type Code with State/Strategy](<Replace Type Code with State/Strategy/Replace Type Code with State/Strategy.md>)
+- [Replace Subclass with Fields](<Replace Subclass with Fields/Replace Subclass with Fields.md>)
+

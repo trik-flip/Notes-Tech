@@ -1,0 +1,17 @@
+> [Root](../../../index.md) > [Software Development](<../../Software Development.md>) > [Anti Patterns](<../Anti Patterns.md>) > [Software Development](<Software Development.md>)
+
+
+- [The Blob](<The Blob/The Blob.md>)
+- [Continuous Obsolescence](<Continuous Obsolescence/Continuous Obsolescence.md>)
+- [Lava Flow](<Lava Flow/Lava Flow.md>)
+- [Ambiguous Viewpoint](<Ambiguous Viewpoint/Ambiguous Viewpoint.md>)
+- [Functional Decomposition](<Functional Decomposition/Functional Decomposition.md>)
+- [Poltergeists](<Poltergeists/Poltergeists.md>)
+- [Boat Anchor](<Boat Anchor/Boat Anchor.md>)
+- [Golden Hammer](<Golden Hammer/Golden Hammer.md>)
+- [Dead End](<Dead End/Dead End.md>)
+- [Spaghetti Code](<Spaghetti Code/Spaghetti Code.md>)
+- [Input Kludge](<Input Kludge/Input Kludge.md>)
+- [Walking through a Minefield](<Walking through a Minefield/Walking through a Minefield.md>)
+- [Cut-and-Paste Programming](<Cut-and-Paste Programming/Cut-and-Paste Programming.md>)
+- [Mushroom Management](<Mushroom Management/Mushroom Management.md>)

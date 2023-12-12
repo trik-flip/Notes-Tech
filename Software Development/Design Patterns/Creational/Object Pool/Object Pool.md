@@ -1,0 +1,1 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Design Patterns](<../../Design Patterns.md>) > [Creational](../Creational.md) > [Object Pool](<Object Pool.md>)

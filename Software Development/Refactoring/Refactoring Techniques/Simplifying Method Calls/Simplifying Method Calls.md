@@ -1,0 +1,17 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Refactoring](../../Refactoring.md) > [Refactoring Techniques](<../Refactoring Techniques.md>) > [Simplifying Method Calls](<Simplifying Method Calls.md>)
+
+- [Add Parameter](<Add Parameter/Add Parameter.md>)
+- [Remove Parameter](<Remove Parameter/Remove Parameter.md>)
+- [Rename Method](<Rename Method/Rename Method.md>)
+- [Seperate Query From Modifier](<Seperate Query From Modifier/Seperate Query From Modifier.md>)
+- [Parameterize Method](<Parameterize Method/Parameterize Method.md>)
+- [Introduce Parameter Object](<Introduce Parameter Object/Introduce Parameter Object.md>)
+- [Preserve Whole Object](<Preserve Whole Object/Preserve Whole Object.md>)
+- [Remove Setting Method](<Remove Setting Method/Remove Setting Method.md>)
+- [Replace Parameter with Explicit Methods](<Replace Parameter with Explicit Methods/Replace Parameter with Explicit Methods.md>)
+- [Replace Parameter with Method Call](<Replace Parameter with Method Call/Replace Parameter with Method Call.md>)
+- [Hide Method](<Hide Method/Hide Method.md>)
+- [Replace Constructor with Factory Method](<Replace Constructor with Factory Method/Replace Constructor with Factory Method.md>)
+- [Replace Error Code with Exception](<Replace Error Code with Exception/Replace Error Code with Exception.md>)
+- [Replace Exception with Test](<Replace Exception with Test/Replace Exception with Test.md>)
+

@@ -1,0 +1,15 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Refactoring](../../Refactoring.md) > [Refactoring Techniques](<../Refactoring Techniques.md>) > [Dealing with Generalization](<Dealing with Generalization.md>)
+
+- [Pull Up Field](<Pull Up Field/Pull Up Field.md>)
+- [Pull Up Method](<Pull Up Method/Pull Up Method.md>)
+- [Pull Up Constructor Body](<Pull Up Constructor Body/Pull Up Constructor Body.md>)
+- [Push Down Field](<Push Down Field/Push Down Field.md>)
+- [Push Down Method](<Push Down Method/Push Down Method.md>)
+- [Extract Subclass](<Extract Subclass/Extract Subclass.md>)
+- [Extract Superclass](<Extract Superclass/Extract Superclass.md>)
+- [Extract Interface](<Extract Interface/Extract Interface.md>)
+- [Collapse Hierarchy](<Collapse Hierarchy/Collapse Hierarchy.md>)
+- [Form Template Method](<Form Template Method/Form Template Method.md>)
+- [Replace Inheritance with Delefation](<Replace Inheritance with Delefation/Replace Inheritance with Delefation.md>)
+- [Replace Delefation with Inheritance](<Replace Delefation with Inheritance/Replace Delefation with Inheritance.md>)
+

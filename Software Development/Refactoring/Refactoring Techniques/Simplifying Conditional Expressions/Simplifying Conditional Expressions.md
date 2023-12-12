@@ -1,0 +1,10 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Refactoring](../../Refactoring.md) > [Refactoring Techniques](<../Refactoring Techniques.md>) > [Simplifying Conditional Expressions](<Simplifying Conditional Expressions.md>)
+
+- [Consolidate Conditional Expression](<Consolidate Conditional Expression/Consolidate Conditional Expression.md>)
+- [Consolidate Duplicate Conditional Fragments](<Consolidate Duplicate Conditional Fragments/Consolidate Duplicate Conditional Fragments.md>)
+- [Decompose Conditional](<Decompose Conditional/Decompose Conditional.md>)
+- [Replace Conditional with Polymorphism](<Replace Conditional with Polymorphism/Replace Conditional with Polymorphism.md>)
+- [Remove Control Flag](<Remove Control Flag/Remove Control Flag.md>)
+- [Replace Nested Conditional with Guard Clauses](<Replace Nested Conditional with Guard Clauses/Replace Nested Conditional with Guard Clauses.md>)
+- [Introduce Null Object](<Introduce Null Object/Introduce Null Object.md>)
+- [Introduce Assertion](<Introduce Assertion/Introduce Assertion.md>)

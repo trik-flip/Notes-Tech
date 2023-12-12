@@ -1,0 +1,1 @@
+> [Root](../../../../index.md) > [Software Development](<../../../Software Development.md>) > [Design Patterns](<../../Design Patterns.md>) > [Structural](../Structural.md) > [Private Class Data](<Private Class Data.md>)
